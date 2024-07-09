@@ -23,8 +23,7 @@
 This application uses Haar Cascades to detect faces and eyes in real-time from a webcam or from uploaded photos.
 
 ### Screenshot
-![Screenshot 2024-07-05 183520](https://github.com/rizqimaulana04/Face_Eye_Detection/assets/115638135/47a58df0-fce5-41fd-a40e-ca1dc9aa74a3)
-
+![Screenshot 2024-07-05 183520](https://github.com/rizqimaulana04/Face_Eye_Detection/assets/115638135/47a58df0-fce5-41fd-a40e-ca1dc9aa74a3)  
 
 ### Prerequisites
 
@@ -169,10 +168,7 @@ Repositori ini berisi aplikasi web Streamlit untuk melakukan segmentasi gambar m
 
 ### Tampilan
 
-https://github.com/rizqimaulana04/UAS_PengolahanCitra/assets/115638135/fc854cde-1147-4530-abd7-1f999df548f0
-
-
-
+https://github.com/rizqimaulana04/UAS_PengolahanCitra/assets/115638135/fc854cde-1147-4530-abd7-1f999df548f0    
 
 
 ### Features
